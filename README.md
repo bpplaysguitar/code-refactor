@@ -34,7 +34,7 @@ git clone https://github.com/bpplaysguitar/code-refactor.git
 Provide instructions and examples for use. Include screenshots as needed.
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
     ```md
-    ![alt text](assets/images/horiseon-screenshot.jpg)
+    ![Horiseon](assets/images/horiseon-screenshot.jpg)
     ```
 ## Credits
 Profssional README guide template provided by Coding Boot Camp. https://github.com/coding-boot-camp
