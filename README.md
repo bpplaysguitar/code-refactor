@@ -33,7 +33,9 @@ git clone https://github.com/bpplaysguitar/code-refactor.git
 ## Usage
 Provide instructions and examples for use. Include screenshots as needed.
 
+
     ![](assets/images/screenshot.jpg)
+    
 ## Credits
 Profssional README guide template provided by Coding Boot Camp. https://github.com/coding-boot-camp
 
