@@ -1,5 +1,11 @@
 # <code-refactor>
-![GitHub all releases](https://img.shields.io/github/downloads/bpplaysguitar/code-refactor/total?color=%2300ff00&logo=Github&logoColor=%2300ff00&style=flat-square)
+![GitHub all releases](https://img.shields.io/github/downloads/bpplaysguitar/code-refactor/total?color=%23baffc9&logo=Github&logoColor=%23baffc9&style=flat-square)
+
+![GitHub top language](https://img.shields.io/github/languages/top/bpplaysguitar/code-refactor?color=%23ffb3ba&logo=GitHub&logoColor=%23ffb3ba)
+
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/bpplaysguitar/code-refactor?color=%23bae1ff&logo=GitHub&logoColor=%23bae1ff)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/bpplaysguitar/code-refactor?color=%23ffdfba&logo=GitHub&logoColor=%23ffdfba)
 
 ## Description
 In this project, I was refactoring code for the purposes of accessibility to the user, and proper organization and smooth work flow for my fellow developers. By adding semantic HTML elements and rearranging the CSS selectors in a way that made more sense and flowed with the layout of the page, I improved the page for both user and my team, including keeping this up to standards of accessibility and keeping my team out of trouble.
