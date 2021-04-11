@@ -9,7 +9,19 @@ Refactoring the CSS helped make it much more well thought out and organized for 
 I learned how much easier it is to work on files when they have been written with the aim to be as clear and easy to understand as possible. We need to work on projects assuming we won't be the only ones looking at our code later and trying to make sense of it.
 
 ## Installation
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+1. Provided that you have a code editor of your choosing installed on your system, such as VS Code (https://code.visualstudio.com/),
+
+2. Provided that you have a Terminal installed for Windows (https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?rtc=1&activetab=pivot:overviewtab) or are using a Mac with Terminal installed with the OS,
+
+3. You have Git and Github Desktop installed (https://git-scm.com/downloads, https://desktop.github.com/) and have registered for an account,
+
+4. Clone this repository:
+git clone https://github.com/bpplaysguitar/code-refactor.git
+
+5. Create your own repository for the files on GitHub.
+
+6. Edit in your code editor and continue to commit, push changes and perform other Git actions using your repository https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html
+
 ## Usage
 Provide instructions and examples for use. Include screenshots as needed.
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
