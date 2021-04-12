@@ -1,5 +1,6 @@
 # code-refactor
 
+See the project live here:
 https://bpplaysguitar.github.io/code-refactor/
 
 ![GitHub all releases](https://img.shields.io/github/downloads/bpplaysguitar/code-refactor/total?color=%23baffc9&logo=GitHub&logoColor=%23baffc9)
