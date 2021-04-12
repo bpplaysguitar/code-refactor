@@ -1,11 +1,11 @@
-# code-refactor
+# horiseon-code-refactor
 
 See the project live here:
-https://bpplaysguitar.github.io/code-refactor/
+https://bpplaysguitar.github.io/horiseon-code-refactor/
 
-![GitHub top language](https://img.shields.io/github/languages/top/bpplaysguitar/code-refactor?color=%23ffb3ba&logo=GitHub&logoColor=%23ffb3ba)
+![GitHub top language](https://img.shields.io/github/languages/top/bpplaysguitar/horiseon-code-refactor?color=%23ffb3ba&logo=GitHub&logoColor=%23ffb3ba)
 
-![GitHub](https://img.shields.io/github/license/bpplaysguitar/code-refactor?color=ffffba&logo=GitHub&logoColor=ffffba)
+![GitHub](https://img.shields.io/github/license/bpplaysguitar/horiseon-code-refactor?color=ffffba&logo=GitHub&logoColor=ffffba)
 
 ## Description
 In this project, I refactored code for the purposes of accessibility to the user, and proper organization and smooth work flow for my fellow developers. By adding semantic HTML elements and rearranging the CSS selectors in a way that made more sense and flowed with the layout of the page, I improved the page for both user and my team, including keeping this up to standards of accessibility and keeping my team out of trouble.
