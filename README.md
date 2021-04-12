@@ -22,7 +22,7 @@ I learned how much easier it is to work on files when they have been written wit
 3. You have Git and Github Desktop installed (https://git-scm.com/downloads, https://desktop.github.com/) and have registered for an account,
 
 4. Clone this repository:
-git clone https://github.com/bpplaysguitar/code-refactor.git
+git clone https://github.com/bpplaysguitar/horiseon-code-refactor.git
 
 5. Create your own repository for the files on GitHub.
 
