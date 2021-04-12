@@ -34,7 +34,7 @@ git clone https://github.com/bpplaysguitar/code-refactor.git
 6. Edit in your code editor and continue to commit, push changes and perform other Git actions using your repository https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html
 
 ## Usage
-Provide instructions and examples for use. Include screenshots as needed.
+Screenshot image of the project web page
 
 ![](assets/images/screenshot.jpg)
 
