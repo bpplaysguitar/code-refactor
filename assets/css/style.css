@@ -56,8 +56,8 @@ p {
     background-position: center;
 }
 
-/* Main .services content */
-.services {
+/* Main #services content */
+#services {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -79,7 +79,7 @@ p {
     max-height: 200px;
 }
 
-/* Float images left and right in .services sections */
+/* Float images left and right in #services sections */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -90,8 +90,8 @@ p {
     margin-left: 25px;
 }
 
-/* .benefits aside  */
-.benefits {
+/* #benefits aside  */
+#benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
